@@ -1,5 +1,5 @@
 # Hello World
-I am Mr Nano (my nick name, thanks friends:) ), thanks for visiting my space! This is me at a glance:
+I am Mr Nano (my nick name, thanks friends:) ), thanks for visiting my space! I've also been writing at [obsidian](https://publish.obsidian.md/opengarage/_START+HERE) (feel free to check it out, best viewed on large screens) Anyhow, this is me at a glance:
 - **[Developer Trainer](#developer-trainer)** - I enjoy training other developers on upcoming technologies, timeless practices and consultation mindset.
 - **[Big Data Pipelines](#big-data-pipelines)** - I have spent a fair bit of time building large ETL pipelines with ~ 20 workflows and 300+ steps.
 - **[CI/CD Pipelines](#ci--cd-pipelines)** - Well, I have been working with ThoughtWorks, so that's bread and butter.
